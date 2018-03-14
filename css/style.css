@@ -1,8 +1,8 @@
-.serious{
+.serious {
   font-weight: bold;
 }
 
-.italic{
+.italic {
   font-style: italic;
 }
 
@@ -12,4 +12,16 @@
 
 .aboutme{
   font-size: 20px;
+  text-align: center;
+}
+
+.fan {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.welcome {
+  word-spacing: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
